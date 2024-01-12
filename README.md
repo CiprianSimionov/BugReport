@@ -3,8 +3,7 @@
 
 I've created and listed below a few bug samples documented with Jira
 
-![jiraSample](https://github.com/CiprianSimionov/BugReport/assets/26772192/68274596-3886-4b31-b00c-023d5937b15f)
-
+![jiraSample](https://github.com/CiprianSimionov/BugReport_Samples/assets/26772192/4e057f0c-1fc4-49bd-9cc3-57943de60269)
 
 --------------------------------------------------------------
 ## Set item quantity to 0
@@ -32,7 +31,7 @@ The cart total price should be updated
 
 When item quantity is set to 0, the item is not removed, and is set by default to 1
 
-![set item quantity to 0](https://github.com/CiprianSimionov/BugReport/assets/26772192/80fa2e1f-f358-4f02-9f88-c2c2ffe2af6e)
+![set item quantity to 0](https://github.com/CiprianSimionov/BugReport_Samples/assets/26772192/878ed529-e5d1-466d-83f1-1dfda19f0f50)
 
 --------------------------------------------------------------
 ## Broken link
@@ -58,7 +57,7 @@ Accessing “Raport primar” link should redirect and download specific resourc
 
 Accessing link triggers 404 error page.
 
-![broken link](https://github.com/CiprianSimionov/BugReport/assets/26772192/24a3e8f2-6980-45e9-8615-8934e0c8f750)
+![broken link](https://github.com/CiprianSimionov/BugReport_Samples/assets/26772192/9b488fde-f825-458f-ac67-87ad22df116a)
 
 --------------------------------------------------------------
 ## Button contrast issue
@@ -85,7 +84,7 @@ While clicking and leaving selected element, it should reverse to its original c
 
 Onmouseleave, selected element stays defocused and loose contrast
 
-![contrast](https://github.com/CiprianSimionov/BugReport/assets/26772192/2ced0f20-b656-4dd3-9002-d48f6cf3f5a6)
+![contrast](https://github.com/CiprianSimionov/BugReport_Samples/assets/26772192/3ec56b1c-7b99-423e-aaba-7ca5576ef38a)
 
 --------------------------------------------------------------
 ## Overlapping Dropdown menu
@@ -114,7 +113,7 @@ On mouse leave "Incaltaminte" list should not be focused
 
 Highlighted list overlaps "Copii" list
 
-![onmousefocus](https://github.com/CiprianSimionov/BugReport/assets/26772192/d7bcdc19-c013-486e-a989-0b1ee5c6d6bd)
+![onmousefocus](https://github.com/CiprianSimionov/BugReport_Samples/assets/26772192/ada739ea-f418-4ec6-a368-4d4ece21703b)
 
 --------------------------------------------------------------
 ## Language selection is not working
@@ -141,7 +140,8 @@ Each section should be translated into selected language.
 
 Some languages are not translated.
 
-![language translation](https://github.com/CiprianSimionov/BugReport/assets/26772192/6c44b649-0618-4dbe-925b-0a28caeb6749)
+![language translation](https://github.com/CiprianSimionov/BugReport_Samples/assets/26772192/c65e85fa-6b09-47ee-b006-4bae228b0cb9)
+
 --------------------------------------------------------------
 ## The body in "About us" section has placeholder text displayed
 ------------------------------------------------------------
@@ -167,7 +167,7 @@ The “About us” section should share information regarding the website.
 
 There is a placeholder text displayed.
 
-![About Us - placeholder](https://github.com/CiprianSimionov/BugReport/assets/26772192/e5207f61-5722-4024-8eea-29cbfe1702c6)
+![About Us - placeholder](https://github.com/CiprianSimionov/BugReport_Samples/assets/26772192/f18f59dd-b29e-405d-b984-29412d541596)
 
 --------------------------------------------------------------
 ## Document is missing
@@ -194,7 +194,7 @@ The document should be publicly available.
 
 The document is missing with an 404 error thrown.
 
-![missing document](https://github.com/CiprianSimionov/BugReport/assets/26772192/834379ba-c2ad-4566-b38e-bf3d80b6d37a)
+![missing document](https://github.com/CiprianSimionov/BugReport_Samples/assets/26772192/f5a9f9f6-6a7a-4987-9cea-a970f70a47e3)
 
 --------------------------------------------------------------
 ## Missing URL attribute
@@ -220,7 +220,7 @@ Customer should be redirected to required page links.
 
 Customer is not redirected to required pages.
 
-![navbar-icons href](https://github.com/CiprianSimionov/BugReport/assets/26772192/cde92129-566e-4cb2-9a2c-daad50004cd8)
+![navbar-icons href](https://github.com/CiprianSimionov/BugReport_Samples/assets/26772192/1bfaea4f-e689-4aef-8eb3-45fa5e9aff3c)
 
 
 
